@@ -31,5 +31,4 @@ end
 
 class TriangleError < StandardError
   # triangle error code
-  puts "Try again."
 end
